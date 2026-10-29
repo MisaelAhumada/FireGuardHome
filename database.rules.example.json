@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "fireguard": {
+      "shared": {
+        ".read": "auth != null",
+        ".write": "auth != null"
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "328543973275",
+    "project_id": "fireproyecthouse",
+    "storage_bucket": "fireproyecthouse.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328543973275:android:aacae1fcc6e0392b0f7b3e",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgNRFJdSrt-Nb4k6kMGshuXEr5M4SY2h4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
